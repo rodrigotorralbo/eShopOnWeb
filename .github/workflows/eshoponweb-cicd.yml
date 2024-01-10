@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 0d03a800-6e59-46b2-8d37-8f8f2ff9df4d
-  WEBAPP-NAME: az400-webapp-torralbo
+  WEBAPP-NAME: az400-webapp-torralbo-0897
 
 
 jobs:
